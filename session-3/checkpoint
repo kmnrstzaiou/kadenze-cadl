@@ -1,0 +1,4 @@
+model_checkpoint_path: "vae.ckpt-0"
+all_model_checkpoint_paths: "vae.ckpt-100"
+all_model_checkpoint_paths: "vae.ckpt-200"
+all_model_checkpoint_paths: "vae.ckpt-0"
